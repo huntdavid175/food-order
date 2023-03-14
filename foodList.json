@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Beef",
+    "foodList": [
+      { "foodName": "14oz Striploin steak", "price": 40 },
+      { "foodName": "18oz T-Bone steak", "price": 37 },
+      { "foodName": "10oz Ribeye steak", "price": 25 },
+      { "foodName": "8oz Centre Cut Fillet", "price": 35 },
+      { "foodName": "30oz Tomahawk Ribeye steak", "price": 75 }
+    ]
+  },
+  {
+    "title": "Pasta",
+    "foodList": [
+      { "foodName": "Spaghetti Bolognese", "price": 14 },
+      { "foodName": "Fettuccine Alfredo", "price": 12 },
+      { "foodName": "Lasagna", "price": 15 },
+      { "foodName": "Penne alla Vodka", "price": 13 },
+      { "foodName": "Shrimp Scampi Linguine", "price": 17 }
+    ]
+  },
+  {
+    "title": "Seafood",
+    "foodList": [
+      { "foodName": "Grilled Salmon", "price": 18 },
+      { "foodName": "Fried Shrimp", "price": 16 },
+      { "foodName": "Lobster Tail", "price": 30 },
+      { "foodName": "Crab Cakes", "price": 17 },
+      { "foodName": "Scallops", "price": 20 }
+    ]
+  },
+  {
+    "title": "Sandwiches",
+    "foodList": [
+      { "foodName": "Grilled Cheese Sandwich", "price": 7 },
+      { "foodName": "Reuben Sandwich", "price": 10 },
+      { "foodName": "Turkey Sandwich", "price": 8 },
+      { "foodName": "Philly Cheesesteak Sandwich", "price": 12 },
+      { "foodName": "BLT Sandwich", "price": 9 }
+    ]
+  },
+  {
+    "title": "Salads",
+    "foodList": [
+      { "foodName": "Caesar Salad", "price": 9 },
+      { "foodName": "Greek Salad", "price": 10 },
+      { "foodName": "Cobb Salad", "price": 12 },
+      { "foodName": "Spinach Salad", "price": 8 },
+      { "foodName": "Arugula Salad", "price": 7 }
+    ]
+  },
+  {
+    "title": "Soups",
+    "foodList": [
+      { "foodName": "French Onion Soup", "price": 9 },
+      { "foodName": "Tomato Bisque", "price": 7 },
+      { "foodName": "Clam Chowder", "price": 10 },
+      { "foodName": "Minestrone", "price": 8 },
+      { "foodName": "Chicken Noodle Soup", "price": 6 }
+    ]
+  },
+  {
+    "title": "Appetizers",
+    "foodList": [
+      { "foodName": "Calamari", "price": 12 },
+      { "foodName": "Bruschetta", "price": 8 },
+      { "foodName": "Stuffed Mushrooms", "price": 10 },
+      { "foodName": "Shrimp Cocktail", "price": 15 },
+      { "foodName": "Chicken Wings", "price": 11 }
+    ]
+  },
+  {
+    "title": "Kids Menu",
+    "foodList": [
+      { "foodName": "Chicken Nuggets", "price": 6 },
+      { "foodName": "Grilled Cheese Sandwich", "price": 5 },
+      { "foodName": "Mac and Cheese", "price": 7 },
+      { "foodName": "Mini Cheeseburger", "price": 6 },
+      { "foodName": "Peanut Butter and Jelly Sandwich", "price": 4 },
+      { "foodName": "Spaghetti with Meatballs", "price": 8 },
+      { "foodName": "Cheese Pizza", "price": 9 },
+      { "foodName": "Hot Dog", "price": 5 },
+      { "foodName": "French Fries", "price": 3 },
+      { "foodName": "Fresh Fruit Cup", "price": 4 }
+    ]
+  },
+  {
+    "title": "Drinks",
+    "foodList": [
+      { "foodName": "Coke", "price": 3 },
+      { "foodName": "Diet Coke", "price": 3 },
+      { "foodName": "Sprite", "price": 3 },
+      { "foodName": "Lemonade", "price": 3 },
+      { "foodName": "Iced Tea", "price": 3 },
+      { "foodName": "Coffee", "price": 2 },
+      { "foodName": "Espresso", "price": 3 },
+      { "foodName": "Cappuccino", "price": 4 },
+      { "foodName": "Latte", "price": 4 },
+      { "foodName": "Hot Chocolate", "price": 3 },
+      { "foodName": "Milk", "price": 3 },
+      { "foodName": "Orange Juice", "price": 4 },
+      { "foodName": "Apple Juice", "price": 4 },
+      { "foodName": "Cranberry Juice", "price": 4 },
+      { "foodName": "Pineapple Juice", "price": 4 },
+      { "foodName": "Tomato Juice", "price": 4 },
+      { "foodName": "Bottled Water", "price": 2 }
+    ]
+  }
+]

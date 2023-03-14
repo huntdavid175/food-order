@@ -1,0 +1,78 @@
+title,foodName,price
+Beef,14oz Striploin steak,40
+Beef,18oz T-Bone steak,37
+Beef,10oz Ribeye steak,25
+Beef,8oz Centre Cut Fillet,35
+Beef,30oz Tomahawk Ribeye steak,75
+Pasta,Spaghetti Bolognese,14
+Pasta,Fettuccine Alfredo,12
+Pasta,Lasagna,15
+Pasta,Penne alla Vodka,13
+Pasta,Shrimp Scampi Linguine,17
+Seafood,Grilled Salmon,18
+Seafood,Fried Shrimp,16
+Seafood,Lobster Tail,30
+Seafood,Crab Cakes,17
+Seafood,Scallops,20
+Sandwiches,Grilled Cheese Sandwich,7
+Sandwiches,Reuben Sandwich,10
+Sandwiches,Turkey Sandwich,8
+Sandwiches,Philly Cheesesteak Sandwich,12
+Sandwiches,BLT Sandwich,9
+Salads,Caesar Salad,9
+Salads,Greek Salad,10
+Salads,Cobb Salad,12
+Salads,Spinach Salad,8
+Salads,Arugula Salad,7
+Soups,French Onion Soup,9
+Soups,Tomato Bisque,7
+Soups,Clam Chowder,10
+Soups,Minestrone,8
+Soups,Chicken Noodle Soup,6
+Appetizers,Calamari,12
+Appetizers,Bruschetta,8
+Appetizers,Stuffed Mushrooms,10
+Appetizers,Shrimp Cocktail,15
+Appetizers,Chicken Wings,11
+Kids Menu,Chicken Nuggets,6
+Kids Menu,Grilled Cheese Sandwich,5
+Kids Menu,Mac and Cheese,7
+Kids Menu,Mini Cheeseburger,6
+Kids Menu,Peanut Butter and Jelly Sandwich,4
+Kids Menu,Spaghetti with Meatballs,8
+Kids Menu,Cheese Pizza,9
+Kids Menu,Hot Dog,5
+Kids Menu,French Fries,3
+Kids Menu,Fresh Fruit Cup,4
+Drinks,Coke,3
+Drinks,Diet Coke,3
+Drinks,Sprite,3
+Drinks,Lemonade,3
+Drinks,Iced Tea,3
+Drinks,Coffee,2
+Drinks,Espresso,3
+Drinks,Cappuccino,4
+Drinks,Latte,4
+Drinks,Hot Chocolate,3
+Drinks,Milk,3
+Drinks,Orange Juice,4
+Drinks,Apple Juice,4
+Drinks,Cranberry Juice,4
+Drinks,Grapefruit Juice,4
+Drinks,Pineapple Juice,4
+Drinks,Strawberry Banana Smoothie,5
+Drinks,Blueberry Pomegranate Smoothie,5
+Drinks,Mango Smoothie,5
+Drinks,Iced Coffee,3
+Drinks,Iced Latte,4
+Drinks,Iced Mocha,4
+Drinks,Frozen Margarita,7
+Drinks,Long Island Iced Tea,8
+Drinks,Piña Colada,7
+Drinks,Red Wine,6
+Drinks,White Wine,6
+Drinks,Sparkling Wine,7
+Drinks,Beer,4
+Drinks,Craft Beer,5
+Drinks,Hard Cider,5
+Drinks,Liquor,7
