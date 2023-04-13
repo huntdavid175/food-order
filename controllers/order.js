@@ -1,7 +1,11 @@
 const Menu = require("../models/menu");
 
+const { socket } = require("../socketio");
+
+const orders = [];
 const createOrder = async (req, res) => {
   const { ids } = req.body;
+
   // const objectIds = [
   //   "6411a6f0affc08795b724cef",
   //   "6411a6f0affc08795b724cf0",
@@ -28,6 +32,7 @@ const createOrder = async (req, res) => {
         });
         return item;
       });
+
       res.json({ data: exactFood });
     }
   } catch (error) {
@@ -35,4 +40,4 @@ const createOrder = async (req, res) => {
   }
 };
 
-module.exports = { createOrder };
+module.exports = { createOrder, orders };
